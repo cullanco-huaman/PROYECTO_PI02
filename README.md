@@ -4,7 +4,7 @@ PROYECTO N°2 DE ANALISIS DE DATOS
 
  ACCIDENTE AÉRIO
 Este proyecto está basado en la elaboración del análisis de los datos históricos, que está abarcado desde el año 1909 hasta 2021, que se produjeron los accidentes aéreos de la historia en el mundo.
-- los detalles del proyecto se encuentra  en  el siguiente [ENLACE] hhttps://github.com/soyHenry/PI03-Analyticsttp://
+- los detalles del proyecto se encuentra  en  el siguiente enlace hhttps://github.com/soyHenry/PI03-Analyticsttp
 - El informe y el dashboard en Powerbi se encuentran en el siguiente [ENLASE DE DRIVE](https://drive.google.com/drive/folders/15g6acdbzyKSQ7IZuci4fnB-3xazWZq4E?usp=share_link "ENLASE en drive")
 
 
